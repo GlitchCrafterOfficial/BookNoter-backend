@@ -1,7 +1,11 @@
 # Books backend
 
-Is the backend for books. Books is an self-hosted application to take notes on books, group the notes. The system have a search engine to search the reference of the notes all accross the database.
+Is the backend for a simple self-hosted book notes application.
 
 ## Roadmap
 
-Make the database structure for a book using the standard book metadata structure.
+- [x] Make the database structure for a book using the standard book metadata structure.
+- [x] Add to the metadata a short title option
+- [x] Add to the note metadata a topic field
+- [ ] Add all the delete an patch routes
+- [ ] Refactor
