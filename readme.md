@@ -1,11 +1,19 @@
 # Books backend
 
-Is the backend for a simple self-hosted book notes application.
+Es un backend simple para una aplicación para tomar notas de libros.
 
-## Roadmap
+## Hoja de ruta
 
-- [x] Make the database structure for a book using the standard book metadata structure.
-- [x] Add to the metadata a short title option
-- [x] Add to the note metadata a topic field
-- [ ] Add all the delete an patch routes
+- [x] Crear el modelo del libro en la base de datos utilizando una base estandar para almacenar libros
+- [x] Crear el modelo de base de datos que representa la nota.
+- [ ] Crear el Crud Libro
+  - [x] Create
+  - [x] Read
+  - [x] Update
+  - [ ] Delete
+- [ ] Crear el Crud Nota
+  - [x] Create
+  - [x] Read
+  - [x] Update
+  - [ ] Delete
 - [ ] Refactor
